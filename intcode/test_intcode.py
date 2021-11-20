@@ -1,6 +1,6 @@
 import pytest
 
-from intcode import Intcode, Status
+from intcode.intcode import Intcode, Status
 
 
 @pytest.fixture
